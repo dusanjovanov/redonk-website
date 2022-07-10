@@ -30,10 +30,7 @@ const Home: NextPage = () => {
           name="description"
           content="Open source state management and data fetching library for React"
         />
-        <meta
-          name="viewport"
-          content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
-        />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
       <div className={styles.firstPage}>
         <header className={styles.header}>
