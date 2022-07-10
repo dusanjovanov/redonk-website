@@ -113,7 +113,7 @@ const Home: NextPage = () => {
             target="_blank"
             rel="noreferrer"
           >
-            715b / 0 dependencies
+            715B / 0 dependencies
           </a>
           <Link href="/docs">
             <a className={styles.docs}>Docs</a>
