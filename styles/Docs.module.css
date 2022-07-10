@@ -1,0 +1,16 @@
+.tabs {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: fit-content;
+  margin: 0 auto;
+  gap: 2rem;
+}
+
+.tab {
+  background-color: var(--blue);
+  padding: 0.8rem 1.5rem;
+  font-size: 1.5rem;
+  border-radius: 0.5rem;
+  border: 0;
+}
